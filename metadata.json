@@ -1,0 +1,5 @@
+{
+  "name": "Fractal Text Encoder",
+  "description": "An application to encode text into a visual representation using Julia set fractals and decode it back. Enter text to generate a unique fractal visualization.",
+  "requestFramePermissions": []
+}
